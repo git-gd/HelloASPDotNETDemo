@@ -1,5 +1,3 @@
-using System;
-
 namespace HelloASPDotNET.Models
 {
     public class ErrorViewModel
